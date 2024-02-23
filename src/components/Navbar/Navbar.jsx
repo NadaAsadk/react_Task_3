@@ -35,7 +35,7 @@ function Navbar() {
             <a href="#" className={styles.login}>
               Log in
             </a>
-            <a href="#" className='{styles.register}'>
+            <a href="#" className={styles.register}>
               Register
             </a>
           </div>
