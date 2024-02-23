@@ -20,11 +20,11 @@
   width: 35px;
 }
 
-.logoContainer a {
+.logoContainer a{
   color: #545be8;
 }
 
-nav ul {
+nav ul{
   display: flex;
   flex-wrap: wrap;
   gap: 16px;

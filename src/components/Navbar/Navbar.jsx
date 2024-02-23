@@ -1,6 +1,4 @@
-
-
-import styles from './Navbar.modulee.css'; 
+import styles from './Navbar.module.css'; 
 
 function Navbar() {
   return (
